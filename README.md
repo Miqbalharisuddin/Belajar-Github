@@ -1,2 +1,4 @@
 # Belajar-Github
-Sanbercode bATCH 41
+Sanbercode Batch 41
+
+edit pertama kali
