@@ -12,6 +12,6 @@ Sanbercode Batch 41
 8. Git Commit -m "pesan comit" : Cara menyimpan perubahan ke Github
 9. Git Push   : Cara publish dari staging ( perubahan dari lokal ke github)
 10. Git Pull  : Cara perubahan dari github ke lokal
-10. Git config --global user.email "you@example.com" : untuk menambahkan akun agar bisa dicommit
+ 10. Git config --global user.email "you@example.com" : untuk menambahkan akun agar bisa dicommit
 
 
